@@ -1,0 +1,2 @@
+0
+SimpleGoal: Simple Name , Simple Description , Points: 50, False
